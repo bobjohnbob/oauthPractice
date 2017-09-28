@@ -1,0 +1,24 @@
+{
+  "name": "oauthpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobjohnbob/oauthPractice.git"
+  },
+  "author": "john@jshaver.net",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bobjohnbob/oauthPractice/issues"
+  },
+  "homepage": "https://github.com/bobjohnbob/oauthPractice#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5"
+  }
+}
